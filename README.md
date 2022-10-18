@@ -18,7 +18,8 @@ More details about the challenge can be found here:
 | ----------- | ----------- | ----------- |
 | 1      | 18.10.2022       | A wolf in sheep's clothing |
 | 2   | 18.10.2022        | Closest elevator |
-| 3   | Date        | ----------- |
+| 3   | 18.10.2022        | Sum of differences in array
+ |
 | 4   | Date        | ----------- |
 | 5   | Date        | ----------- |
 | 6   | Date        | ----------- |
