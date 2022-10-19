@@ -21,7 +21,7 @@ More details about the challenge can be found here:
 | 3   | 18.10.2022        | Sum of differences in array |
 | 4   | 19.10.2022        | easy logs|
 | 5   | 19.10.2022        | Area or Perimeter |
-| 6   | Date        | ----------- |
+| 6   | 19.10.2022        | Draw stairs |
 | 7   | Date        | ----------- |
 | 8   | Date        | ----------- |
 | 9   | Date        | ----------- |
