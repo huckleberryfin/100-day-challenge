@@ -20,7 +20,7 @@ More details about the challenge can be found here:
 | 2   | 18.10.2022        | Closest elevator |
 | 3   | 18.10.2022        | Sum of differences in array |
 | 4   | 19.10.2022        | easy logs|
-| 5   | Date        | ----------- |
+| 5   | 19.10.2022        | Area or Perimeter |
 | 6   | Date        | ----------- |
 | 7   | Date        | ----------- |
 | 8   | Date        | ----------- |
