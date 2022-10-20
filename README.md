@@ -24,7 +24,7 @@ More details about the challenge can be found here:
 | 6   | 19.10.2022        | Draw stairs |
 | 7   | 20.10.2022        | Find Nearest square number |
 | 8   | 20.10.2022        | Define a card suit |
-| 9   | Date        | ----------- |
+| 9   | 20.10.2022        | Multiple of index |
 | 10   | Date        | ----------- |
 | 11   | Date        | ----------- |
 | 12   | Date        | ----------- |
