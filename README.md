@@ -25,7 +25,7 @@ More details about the challenge can be found here:
 | 7   | 20.10.2022        | Find Nearest square number |
 | 8   | 20.10.2022        | Define a card suit |
 | 9   | 20.10.2022        | Multiple of index |
-| 10   | Date        | ----------- |
+| 10   | 20.10.2022        | Potenciation |
 | 11   | Date        | ----------- |
 | 12   | Date        | ----------- |
 | 13   | Date        | ----------- |
