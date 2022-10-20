@@ -22,7 +22,7 @@ More details about the challenge can be found here:
 | 4   | 19.10.2022        | easy logs|
 | 5   | 19.10.2022        | Area or Perimeter |
 | 6   | 19.10.2022        | Draw stairs |
-| 7   | Date        | ----------- |
+| 7   | 20.10.2022        | Find Nearest square number |
 | 8   | Date        | ----------- |
 | 9   | Date        | ----------- |
 | 10   | Date        | ----------- |
