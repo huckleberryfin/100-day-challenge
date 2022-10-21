@@ -28,7 +28,7 @@ More details about the challenge can be found here:
 | 10   | 20.10.2022        | Potenciation |
 | 11   | 21.10.2022        | Return the day |
 | 12   | 21.10.2022        | Is he gonna survive? |
-| 13   | Date        | ----------- |
+| 13   | 21.10.2022        | For Twins: 1. Types |
 | 14   | Date        | ----------- |
 | 15   | Date        | ----------- |
 | 16   | Date        | ----------- |
