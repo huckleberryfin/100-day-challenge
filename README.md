@@ -32,7 +32,7 @@ More details about the challenge can be found here:
 | 14   | 21.10.2022        | Man in the west |
 | 15   | 21.10.2022        | Contamination #1 -String- |
 | 16   | 21.10.2022        | Take the Derivative |
-| 17   | Date        | ----------- |
+| 17   | 21.10.2022        | Capitalization and Mutability |
 | 18   | Date        | ----------- |
 | 19   | Date        | ----------- |
 | 20   | Date        | ----------- |
