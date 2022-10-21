@@ -29,7 +29,7 @@ More details about the challenge can be found here:
 | 11   | 21.10.2022        | Return the day |
 | 12   | 21.10.2022        | Is he gonna survive? |
 | 13   | 21.10.2022        | For Twins: 1. Types |
-| 14   | Date        | ----------- |
+| 14   | 21.10.2022        | Man in the west |
 | 15   | Date        | ----------- |
 | 16   | Date        | ----------- |
 | 17   | Date        | ----------- |
