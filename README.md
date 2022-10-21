@@ -30,7 +30,7 @@ More details about the challenge can be found here:
 | 12   | 21.10.2022        | Is he gonna survive? |
 | 13   | 21.10.2022        | For Twins: 1. Types |
 | 14   | 21.10.2022        | Man in the west |
-| 15   | Date        | ----------- |
+| 15   | 21.10.2022        | Contamination #1 -String- |
 | 16   | Date        | ----------- |
 | 17   | Date        | ----------- |
 | 18   | Date        | ----------- |
