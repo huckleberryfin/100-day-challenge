@@ -31,7 +31,7 @@ More details about the challenge can be found here:
 | 13   | 21.10.2022        | For Twins: 1. Types |
 | 14   | 21.10.2022        | Man in the west |
 | 15   | 21.10.2022        | Contamination #1 -String- |
-| 16   | Date        | ----------- |
+| 16   | 21.10.2022        | Take the Derivative |
 | 17   | Date        | ----------- |
 | 18   | Date        | ----------- |
 | 19   | Date        | ----------- |
