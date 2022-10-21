@@ -26,7 +26,7 @@ More details about the challenge can be found here:
 | 8   | 20.10.2022        | Define a card suit |
 | 9   | 20.10.2022        | Multiple of index |
 | 10   | 20.10.2022        | Potenciation |
-| 11   | Date        | ----------- |
+| 11   | 21.10.2022        | Return the day |
 | 12   | Date        | ----------- |
 | 13   | Date        | ----------- |
 | 14   | Date        | ----------- |
