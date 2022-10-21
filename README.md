@@ -27,7 +27,7 @@ More details about the challenge can be found here:
 | 9   | 20.10.2022        | Multiple of index |
 | 10   | 20.10.2022        | Potenciation |
 | 11   | 21.10.2022        | Return the day |
-| 12   | Date        | ----------- |
+| 12   | 21.10.2022        | Is he gonna survive? |
 | 13   | Date        | ----------- |
 | 14   | Date        | ----------- |
 | 15   | Date        | ----------- |
