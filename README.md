@@ -35,4 +35,5 @@ More details about the challenge can be found here:
 | 4 | 17   | 21.10.2022        | Capitalization and Mutability |
 | 5 | 18 | 22.10.20222 | Simple Fun #261: Whose Move |
 | 5 | 19 | 22.10.2022 | Do you speak "English"? |
+| 5 | 20 | 22.10.2022 | FIXME: Replace all dots |
 
