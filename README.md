@@ -36,4 +36,5 @@ More details about the challenge can be found here:
 | 5 | 18 | 22.10.20222 | Simple Fun #261: Whose Move |
 | 5 | 19 | 22.10.2022 | Do you speak "English"? |
 | 5 | 20 | 22.10.2022 | FIXME: Replace all dots |
+| 5 | 21 | 22.10.2022 | Find the first non-consecutive number |
 
