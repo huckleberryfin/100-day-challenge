@@ -37,4 +37,5 @@ More details about the challenge can be found here:
 | 5 | 19 | 22.10.2022 | Do you speak "English"? |
 | 5 | 20 | 22.10.2022 | FIXME: Replace all dots |
 | 5 | 21 | 22.10.2022 | Find the first non-consecutive number |
+| 5 | 22 | 22.10.2022 | All Star Code Challenge #18 |
 
