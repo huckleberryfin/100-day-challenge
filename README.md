@@ -39,4 +39,5 @@ More details about the challenge can be found here:
 | 5 | 21 | 22.10.2022 | Find the first non-consecutive number |
 | 5 | 22 | 22.10.2022 | All Star Code Challenge #18 |
 | 5 | 23 | 22.10.2022 | Difference of Volumes of Cuboids |
+| 6 | 23.10.2022 | Find the Integral |
 
