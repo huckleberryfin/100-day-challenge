@@ -42,4 +42,5 @@ More details about the challenge can be found here:
 | 6 | 24 | 23.10.2022 | Find the Integral |
 | 6 | 25 | 23.10.2022 | Find out whether the shape is a cube |
 | 6 | 26 | 23.10.2022 | simple calculator |
+| 6 | 27 | 23.10.2022 | Grasshopper - Terminal game combat function |
 
