@@ -43,4 +43,4 @@ More details about the challenge can be found here:
 | 6 | 25 | 23.10.2022 | Find out whether the shape is a cube |
 | 6 | 26 | 23.10.2022 | simple calculator |
 | 6 | 27 | 23.10.2022 | Grasshopper - Terminal game combat function |
-
+| 7 | 28 | 24.10.2022 | Training JS #10: loop statement --for |
