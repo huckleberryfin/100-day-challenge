@@ -48,3 +48,4 @@ More details about the challenge can be found here:
 | 7 | 30 | 24.10.2022 | Remove the time |
 | 7 | 31 | 24.10.2022 | Add Length |
 | 7 | 32 | 24.10.2022 | ES6 string addition |
+| 7 | 33 | 24.10.2022 | Training JS #29: methods of arrayObject---concat() and join() |
