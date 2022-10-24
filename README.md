@@ -46,4 +46,4 @@ More details about the challenge can be found here:
 | 7 | 28 | 24.10.2022 | Training JS #10: loop statement --for |
 | 7 | 29 | 24.10.2022 | SpeedCode #2 - Array Madness |
 | 7 | 30 | 24.10.2022 | Remove the time |
-
+| 7 | 31 | 24.10.2022 | Add Length |
