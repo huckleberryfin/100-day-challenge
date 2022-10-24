@@ -44,3 +44,4 @@ More details about the challenge can be found here:
 | 6 | 26 | 23.10.2022 | simple calculator |
 | 6 | 27 | 23.10.2022 | Grasshopper - Terminal game combat function |
 | 7 | 28 | 24.10.2022 | Training JS #10: loop statement --for |
+| 7 | 29 | 24.10.2022 | SpeedCode #2 - Array Madness |
