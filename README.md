@@ -51,3 +51,4 @@ More details about the challenge can be found here:
 | 7 | 33 | 24.10.2022 | Training JS #29: methods of arrayObject---concat() and join() |
 | 8 | 34 | 25.10.2022 | Triple Trouble |
 | 8 | 35 | 25.10.2022 | Evil or Odious |
+| 8 | 36 | 25.10.2022 | To square(root) or not to square(root) |
