@@ -53,3 +53,4 @@ More details about the challenge can be found here:
 | 8 | 35 | 25.10.2022 | Evil or Odious |
 | 8 | 36 | 25.10.2022 | To square(root) or not to square(root) |
 | 8 | 37 | 25.10.2022 | Correct the mistakes of the character recognition software |
+| 9 | 38 | 26.10.2022 | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence |
