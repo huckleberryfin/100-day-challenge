@@ -55,3 +55,4 @@ More details about the challenge can be found here:
 | 8 | 37 | 25.10.2022 | Correct the mistakes of the character recognition software |
 | 9 | 38 | 26.10.2022 | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence |
 | 9 | 39 | 26.10.2022 | Exclamation marks series #2: Remove all exclamation marks from the end of sentence |
+| 9 | 40 | 26.10.2022 | Pirates!! Are the Cannons ready!?? |
