@@ -57,3 +57,4 @@ More details about the challenge can be found here:
 | 9 | 39 | 26.10.2022 | Exclamation marks series #2: Remove all exclamation marks from the end of sentence |
 | 9 | 40 | 26.10.2022 | Pirates!! Are the Cannons ready!?? |
 | 10 | 41 | 27.10.2022 | ASCII Total |
+| 10 | 42 | 27.10.2022 | Training JS #17: Methods of String object--indexOf(), lastIndexOf() and search() |
