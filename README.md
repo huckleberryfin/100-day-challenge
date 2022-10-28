@@ -59,3 +59,4 @@ More details about the challenge can be found here:
 | 10 | 41 | 27.10.2022 | ASCII Total |
 | 10 | 42 | 27.10.2022 | Training JS #17: Methods of String object--indexOf(), lastIndexOf() and search() |
 | 10 | 43 | 27.10.2022 | Training JS #16: Methods of String object--slice(), substring() and substr() |
+| 11 | 44 | 28.10.2022 | Be Concise III - Sum Squares |
