@@ -62,3 +62,4 @@ More details about the challenge can be found here:
 | 11 | 44 | 28.10.2022 | Be Concise III - Sum Squares |
 | 11 | 45 | 28.10.2022 | Regex count lowercase letters |
 | 11 | 46 | 28.10.2022 | Generate range of integers |
+| 12 | 47 | 29.10.2022 | Stringy Strings |
