@@ -65,3 +65,4 @@ More details about the challenge can be found here:
 | 12 | 47 | 29.10.2022 | Stringy Strings |
 | 12 | 48 | 29.10.2022 | What is between? |
 | 12 | 49 | 29.10.2022 | Grasshopper - Array Mean |
+| 12 | 50 | 29.10.2022 | Training JS #5: Basic data types--Object |
