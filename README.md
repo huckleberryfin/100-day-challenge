@@ -68,3 +68,4 @@ More details about the challenge can be found here:
 | 12 | 50 | 29.10.2022 | Training JS #5: Basic data types--Object |
 | 12 | 51 | 29.10.2022 | Name Shuffler |
 | 12 | 52 | 29.10.2022 | Count by X |
+| 13 | 53 | 30.10.2022 | Beginner - Reduce but Grow |
