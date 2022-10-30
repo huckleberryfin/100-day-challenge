@@ -70,3 +70,4 @@ More details about the challenge can be found here:
 | 12 | 52 | 29.10.2022 | Count by X |
 | 13 | 53 | 30.10.2022 | Beginner - Reduce but Grow |
 | 13 | 54 | 30.10.2022 | Exclamation marks series #1: Remove an exclamation mark from the end of string |
+| 13 | 55 | 30.10.2022 | Short Long Short |
