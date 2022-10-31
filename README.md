@@ -73,3 +73,4 @@ More details about the challenge can be found here:
 | 13 | 55 | 30.10.2022 | Short Long Short |
 | 13 | 56 | 30.10.2022 | Simple validation of a username with regex |
 | 13 | 57 | 31.10.2022 | Square(n) Sum |
+| 14 | 58 | 31.10.2022 | Fake Binary |
