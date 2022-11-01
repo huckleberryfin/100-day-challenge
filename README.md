@@ -77,3 +77,4 @@ More details about the challenge can be found here:
 | 14 | 59 | 31.10.2022 | Well of Ideas - Easy Version |
 | 14 | 60 | 31.10.2022 | Filter out the geese |
 | 15 | 61 | 01.11.2022 | Find the position! |
+| 15 | 62 | 01.11.2022 | Rock Paper Scissors! |
