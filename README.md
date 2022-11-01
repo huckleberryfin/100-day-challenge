@@ -80,3 +80,4 @@ More details about the challenge can be found here:
 | 15 | 62 | 01.11.2022 | Rock Paper Scissors! |
 | 15 | 63 | 01.11.2022 | Ensure question |
 | 15 | 64 | 01.11.2022 | UEFA EURO 2016 |
+| 15 | 65 | 01.11.2022 | Super Duper Easy |
