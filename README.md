@@ -76,3 +76,4 @@ More details about the challenge can be found here:
 | 14 | 58 | 31.10.2022 | Fake Binary |
 | 14 | 59 | 31.10.2022 | Well of Ideas - Easy Version |
 | 14 | 60 | 31.10.2022 | Filter out the geese |
+| 15 | 61 | 01.11.2022 | Find the position! |
