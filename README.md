@@ -84,3 +84,4 @@ More details about the challenge can be found here:
 | 16 | 66 | 02.11.2022 | Count the Monkeys! |
 | 16 | 67 | 02.11.2022 | Multiply the number |
 | 16 | 68 | 02.11.2022 | validate code with simple regex |
+| 17 | 69 | 03.11.2022 | Get number from string |
