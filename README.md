@@ -86,3 +86,4 @@ More details about the challenge can be found here:
 | 16 | 68 | 02.11.2022 | validate code with simple regex |
 | 17 | 69 | 03.11.2022 | Get number from string |
 | 17 | 70 | 03.11.2022 | Reversing Words in a String |
+| 17 | 71 | 03.11.2022 | Even or Odd |
