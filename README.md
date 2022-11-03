@@ -82,3 +82,4 @@ More details about the challenge can be found here:
 | 15 | 64 | 01.11.2022 | UEFA EURO 2016 |
 | 15 | 65 | 01.11.2022 | Super Duper Easy |
 | 15 | 66 | 02.11.2022 | Count the Monkeys! |
+| 15 | 67 | 02.11.2022 | Multiply the number |
