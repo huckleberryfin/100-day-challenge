@@ -88,3 +88,4 @@ More details about the challenge can be found here:
 | 17 | 70 | 03.11.2022 | Reversing Words in a String |
 | 17 | 71 | 03.11.2022 | Even or Odd |
 | 18 | 72 | 04.11.2022 | Safen User Input Part I - htmlspecialchars |
+| 18 | 73 | 04.11.2022 | Dollars and Cents |
