@@ -89,4 +89,4 @@ More details about the challenge can be found here:
 | 17 | 71 | 03.11.2022 | Even or Odd |
 | 18 | 72 | 04.11.2022 | Safen User Input Part I - htmlspecialchars |
 | 18 | 73 | 04.11.2022 | Dollars and Cents |
-| 19 | 74 | 04.11.2022 | No zeros for heros |
+| 18 | 74 | 04.11.2022 | No zeros for heros |
