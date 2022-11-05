@@ -92,4 +92,4 @@ More details about the challenge can be found here:
 | 18 | 74 | 04.11.2022 | No zeros for heros |
 | 19 | 75 | 05.11.2022 | String cleaning |
 | 19 | 76 | 05.11.2022 | Find the Difference in Age between Oldest and Youngest Family Members |
-| 19 | 77 | 05.11.2022 | Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right |
+| 19 | 77 | 05.11.2022 | Exclamation marks series #6: Remove n exclamation marks from left to right |
