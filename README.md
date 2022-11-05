@@ -90,3 +90,4 @@ More details about the challenge can be found here:
 | 18 | 72 | 04.11.2022 | Safen User Input Part I - htmlspecialchars |
 | 18 | 73 | 04.11.2022 | Dollars and Cents |
 | 18 | 74 | 04.11.2022 | No zeros for heros |
+| 19 | 75 | 05.11.2022 | String cleaning |
