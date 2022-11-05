@@ -91,3 +91,4 @@ More details about the challenge can be found here:
 | 18 | 73 | 04.11.2022 | Dollars and Cents |
 | 18 | 74 | 04.11.2022 | No zeros for heros |
 | 19 | 75 | 05.11.2022 | String cleaning |
+| 19 | 76 | Find the Difference in Age between Oldest and Youngest Family Members |
