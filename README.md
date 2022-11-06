@@ -96,3 +96,4 @@ More details about the challenge can be found here:
 | 20 | 78 | 06.11.2022 | Who ate the cookie? |
 | 20 | 79 | 06.11.2022 | Training JS #21: Methods of String object--trim() and the string template |
 | 20 | 80 | 06.11.2022 | Fix your code before the garden dies! |
+| 20 | 81 | 06.11.2022 | Be Concise II - I Need Squares |
