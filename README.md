@@ -94,3 +94,4 @@ More details about the challenge can be found here:
 | 19 | 76 | 05.11.2022 | Find the Difference in Age between Oldest and Youngest Family Members |
 | 19 | 77 | 05.11.2022 | Exclamation marks series #6: Remove n exclamation marks from left to right |
 | 20 | 78 | 06.11.2022 | Who ate the cookie? |
+| 20 | 79 | 06.11.2022 | Training JS #21: Methods of String object--trim() and the string template |
