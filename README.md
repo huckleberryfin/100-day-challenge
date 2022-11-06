@@ -93,3 +93,4 @@ More details about the challenge can be found here:
 | 19 | 75 | 05.11.2022 | String cleaning |
 | 19 | 76 | 05.11.2022 | Find the Difference in Age between Oldest and Youngest Family Members |
 | 19 | 77 | 05.11.2022 | Exclamation marks series #6: Remove n exclamation marks from left to right |
+| 20 | 78 | 06.11.2022 | Who ate the cookie? |
