@@ -98,3 +98,4 @@ More details about the challenge can be found here:
 | 20 | 80 | 06.11.2022 | Fix your code before the garden dies! |
 | 20 | 81 | 06.11.2022 | Be Concise II - I Need Squares |
 | 21 | 82 | 07.11.2022 | Is integer safe to use? |
+| 21 | 83 | 07.11.2022 | Training JS #4: Basic data types--Array |
