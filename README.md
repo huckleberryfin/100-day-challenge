@@ -102,3 +102,4 @@ More details about the challenge can be found here:
 | 21 | 84 | 07.11.2022 | Lario and Muigi Pipe Problem |
 | 22 | 85 | 08.11.2022 | isReallyNaN |
 | 22 | 86 | 08.11.2022 | Regexp Basics - is it a digit? |
+| 22 | 87 | 08.11.2022 | String Templates - Bug Fixing #5 |
