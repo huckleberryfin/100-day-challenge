@@ -104,3 +104,4 @@ More details about the challenge can be found here:
 | 22 | 86 | 08.11.2022 | Regexp Basics - is it a digit? |
 | 22 | 87 | 08.11.2022 | String Templates - Bug Fixing #5 |
 | 22 | 88 | 08.11.2022 | Function 2 - squaring an argument |
+| 22 | 89 | 08.11.2022 | Switch/Case - Bug Fixing #6 |
