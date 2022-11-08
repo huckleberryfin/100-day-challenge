@@ -103,3 +103,4 @@ More details about the challenge can be found here:
 | 22 | 85 | 08.11.2022 | isReallyNaN |
 | 22 | 86 | 08.11.2022 | Regexp Basics - is it a digit? |
 | 22 | 87 | 08.11.2022 | String Templates - Bug Fixing #5 |
+| 22 | 88 | 08.11.2022 | Function 2 - squaring an argument |
