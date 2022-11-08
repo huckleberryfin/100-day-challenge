@@ -100,3 +100,4 @@ More details about the challenge can be found here:
 | 21 | 82 | 07.11.2022 | Is integer safe to use? |
 | 21 | 83 | 07.11.2022 | Training JS #4: Basic data types--Array |
 | 21 | 84 | 07.11.2022 | Lario and Muigi Pipe Problem |
+| 22 | 85 | 08.11.2022 | isReallyNaN |
