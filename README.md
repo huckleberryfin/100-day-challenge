@@ -110,3 +110,4 @@ More details about the challenge can be found here:
 | 23 | 92 | 09.11.2022 | Calculate Price Excluding VAT |
 | 24 | 93 | 10.11.2022 | Keep Hydrated! |
 | 24 | 94 | 10.11.2022 | Are You Playing Banjo? |
+| 24 | 95 | 10.11.2022 | Count Odd Numbers below n |
