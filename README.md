@@ -108,4 +108,4 @@ More details about the challenge can be found here:
 | 23 | 90 | 09.11.2022 | Welcome! |
 | 23 | 91 | 09.11.2022 | Beginner Series #2 Clock |
 | 23 | 92 | 09.11.2022 | Calculate Price Excluding VAT |
-| 24 | 93 | 09.11.2022 | Keep Hydrated! |
+| 24 | 93 | 10.11.2022 | Keep Hydrated! |
