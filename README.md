@@ -113,3 +113,4 @@ More details about the challenge can be found here:
 | 24 | 95 | 10.11.2022 | Count Odd Numbers below n |
 | 25 | 96 | 11.11.2022 | Are arrow functions odd? |
 | 25 | 97 | 11.11.2022 | Improving Math.round(x) |
+| 25 | 98 | 11.11.2022 | Training JS #7: if..else and ternary operator |
