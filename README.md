@@ -115,3 +115,4 @@ More details about the challenge can be found here:
 | 25 | 97 | 11.11.2022 | Improving Math.round(x) |
 | 25 | 98 | 11.11.2022 | Training JS #7: if..else and ternary operator |
 | 26 | 99 | 12.11.2022 | How old will I be in 2099? |
+| 26 | 100 | 12.11.2022 | Collatz Conjecture (3n+1) |
