@@ -119,3 +119,4 @@ More details about the challenge can be found here:
 | 26 | 101 | 12.11.2022 | Simple Comparison? |
 | 27 | 102 | 13.11.2022 | Function 1 - hello world |
 | 27 | 103 | 13.11.2022 | Sum Arrays |
+| 27 | 104 | 13.11.2022 | Basic Training: Add item to an Array |
