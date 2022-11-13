@@ -117,3 +117,4 @@ More details about the challenge can be found here:
 | 26 | 99 | 12.11.2022 | How old will I be in 2099? |
 | 26 | 100 | 12.11.2022 | Collatz Conjecture (3n+1) |
 | 26 | 101 | 12.11.2022 | Simple Comparison? |
+| 27 | 102 | 13.11.2022 | Function 1 - hello world |
