@@ -122,3 +122,4 @@ More details about the challenge can be found here:
 | 27 | 104 | 13.11.2022 | Basic Training: Add item to an Array |
 | 27 | 105 | 13.11.2022 | Sum without highest and lowest number |
 | 28 | 106 | 14.11.2022 | Power |
+| 28 | 107 | 14.11.2022 | No Loops 2 - You only need one |
