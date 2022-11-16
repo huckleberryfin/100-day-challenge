@@ -125,3 +125,4 @@ More details about the challenge can be found here:
 | 28 | 107 | 14.11.2022 | No Loops 2 - You only need one |
 | 28 | 108 | 14.11.2022 | Enumerable Magic - Does My List Include This? |
 | 28 | 109 | 14.11.2022 | Training JS #9: loop statement --while and do..while |
+| 29 | 110 | 15.11.2022 | Beginner Series #1 School Paperwork |
