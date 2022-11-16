@@ -130,3 +130,4 @@ More details about the challenge can be found here:
 | 29 | 112 | 15.11.2022 | Bin to Decimal |
 | 29 | 113 | 15.11.2022 | Welcome to the City |
 | 30 | 114 | 16.11.2022 | Pre-FizzBuzz Workout #1 |
+| 30 | 115 | 16.11.2022 | Do I get a bonus? |
