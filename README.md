@@ -127,4 +127,5 @@ More details about the challenge can be found here:
 | 28 | 109 | 14.11.2022 | Training JS #9: loop statement --while and do..while |
 | 29 | 110 | 15.11.2022 | Beginner Series #1 School Paperwork |
 | 29 | 111 | 15.11.2022 | Grasshopper - Check for factor |
-| 29 | 112 | 15.11.2022 | Bin to Decima |
+| 29 | 112 | 15.11.2022 | Bin to Decimal |
+| 29 | 113 | 15.11.2022 | Welcome to the City |
