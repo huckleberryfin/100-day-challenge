@@ -136,3 +136,4 @@ More details about the challenge can be found here:
 | 30 | 118 | 16.11.2022 | Drink about |
 | 31 | 119 | 17.11.2022 | Sort and Star |
 | 31 | 120 | 17.11.2022 | Polish alphabet |
+| 31 | 121 | 17.11.2022 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe |
