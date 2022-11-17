@@ -138,3 +138,4 @@ More details about the challenge can be found here:
 | 31 | 120 | 17.11.2022 | Polish alphabet |
 | 31 | 121 | 17.11.2022 | altERnaTIng cAsE <=> ALTerNAtiNG CaSe |
 | 32 | 122 | 18.11.2022 | Freudian translator |
+| 32 | 123 | 18.11.2022 | Tip Calculator |
