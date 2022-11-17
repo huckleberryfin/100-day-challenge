@@ -134,3 +134,4 @@ More details about the challenge can be found here:
 | 30 | 116 | 16.11.2022 | Sentence Smash |
 | 30 | 117 | 16.11.2022 | Reverse List Order |
 | 30 | 118 | 16.11.2022 | Drink about |
+| 31 | 119 | 16.11.2022 | Sort and Star |
