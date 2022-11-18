@@ -141,3 +141,4 @@ More details about the challenge can be found here:
 | 32 | 123 | 18.11.2022 | Tip Calculator |
 | 32 | 124 | 18.11.2022 | Grasshopper - Combine strings |
 | 33 | 125 | 19.11.2022 | Beginner Series #4 Cockroach |
+| 33 | 126 | 19.11.2022 | Simple Fun #1: Seats in Theater |
