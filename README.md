@@ -143,3 +143,4 @@ More details about the challenge can be found here:
 | 33 | 125 | 19.11.2022 | Beginner Series #4 Cockroach |
 | 33 | 126 | 19.11.2022 | Simple Fun #1: Seats in Theater |
 | 33 | 127 | 19.11.2022 | get character from ASCII Value |
+| 33 | 128 | 19.11.2022 | L1: Set Alarm |
