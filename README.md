@@ -144,3 +144,4 @@ More details about the challenge can be found here:
 | 33 | 126 | 19.11.2022 | Simple Fun #1: Seats in Theater |
 | 33 | 127 | 19.11.2022 | get character from ASCII Value |
 | 33 | 128 | 19.11.2022 | L1: Set Alarm |
+| 33 | 129 | 19.11.2022 | How many stairs will Suzuki climb in 20 years? |
