@@ -147,3 +147,4 @@ More details about the challenge can be found here:
 | 33 | 129 | 19.11.2022 | How many stairs will Suzuki climb in 20 years? |
 | 34 | 130 | 20.11.2022 | Enumerable Magic #20 - Cascading Subsets |
 | 34 | 131 | 20.11.2022 | Fundamentals: Return |
+| 34 | 132 | 20.11.2022 | A Needle in the Haystack |
