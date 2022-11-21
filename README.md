@@ -150,3 +150,4 @@ More details about the challenge can be found here:
 | 34 | 132 | 20.11.2022 | A Needle in the Haystack |
 | 34 | 133 | 20.11.2022 | Enumerable Magic #1 - True for All? |
 | 35 | 134 | 21.11.2022 | Is this my tail? |
+| 35 | 135 | 21.11.2022 | Enumerable Magic #4 - True for None? |
