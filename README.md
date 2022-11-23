@@ -152,3 +152,4 @@ More details about the challenge can be found here:
 | 35 | 134 | 21.11.2022 | Is this my tail? |
 | 35 | 135 | 21.11.2022 | Enumerable Magic #4 - True for None? |
 | 35 | 136 | 21.11.2022 | Smallest unused ID |
+| 36 | 137 | 22.11.2022 | !a == a ?! |
