@@ -154,3 +154,4 @@ More details about the challenge can be found here:
 | 35 | 136 | 21.11.2022 | Smallest unused ID |
 | 36 | 137 | 22.11.2022 | !a == a ?! |
 | 36 | 138 | 22.11.2022 | Enumerable Magic #25 - Take the First N Elements |
+| 36 | 139 | 22.11.2022 | Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string |
