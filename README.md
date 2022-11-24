@@ -155,3 +155,4 @@ More details about the challenge can be found here:
 | 36 | 137 | 22.11.2022 | !a == a ?! |
 | 36 | 138 | 22.11.2022 | Enumerable Magic #25 - Take the First N Elements |
 | 36 | 139 | 22.11.2022 | Exclamation marks series #4: Remove all exclamation marks from sentence but not last char |
+| 37 | 140 | 22.11.2022 | Training JS #18: Methods of String object--concat() split() and its good friend join() |
