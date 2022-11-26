@@ -158,3 +158,4 @@ More details about the challenge can be found here:
 | 37 | 140 | 23.11.2022 | Training JS #18: Methods of String object--concat() split() and its good friend join() |
 | 37 | 141 | 23.11.2022 | Grasshopper - If/else syntax debug |
 | 37 | 142 | 23.11.2022 | Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision() |
+| 38 | 143 | 24.11.2022 | Training JS #14: Methods of Number object--toString() and toLocaleString() |
