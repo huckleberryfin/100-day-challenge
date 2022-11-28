@@ -161,3 +161,4 @@ More details about the challenge can be found here:
 | 38 | 143 | 24.11.2022 | Training JS #14: Methods of Number object--toString() and toLocaleString() |
 | 38 | 144 | 24.11.2022 | Take an Arrow to the knee, Functionally |
 | 38 | 145 | 24.11.2022 | Training JS #12: loop statement --for..in and for..of |
+| 39 | 146 | 25.11.2022 | Training JS #11: loop statement --break,continue |
