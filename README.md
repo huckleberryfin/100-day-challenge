@@ -167,3 +167,4 @@ More details about the challenge can be found here:
 | 40 | 149 | 26.11.2022 | Training JS #32: methods of Math---round() ceil() and floor() |
 | 40 | 150 | 26.11.2022 | Coding 3min : Jumping Dutch act |
 | 40 | 151 | 26.11.2022 | Formatting decimal places #0 |
+| 41 | 152 | 27.11.2022 | Grasshopper - Order of operations |
