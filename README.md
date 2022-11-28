@@ -164,3 +164,4 @@ More details about the challenge can be found here:
 | 39 | 146 | 25.11.2022 | Training JS #11: loop statement --break,continue |
 | 39 | 147 | 25.11.2022 | NBA full 48 minutes average |
 | 39 | 148 | 25.11.2022 | Enumerable Magic #2 - True for Any? |
+| 40 | 149 | 26.11.2022 | Training JS #32: methods of Math---round() ceil() and floor() |
