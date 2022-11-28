@@ -169,3 +169,4 @@ More details about the challenge can be found here:
 | 40 | 151 | 26.11.2022 | Formatting decimal places #0 |
 | 41 | 152 | 27.11.2022 | Grasshopper - Order of operations |
 | 41 | 153 | 27.11.2022 | Get Planet Name By ID |
+| 41 | 154 | 27.11.2022 | BASIC: Making Six Toast. |
