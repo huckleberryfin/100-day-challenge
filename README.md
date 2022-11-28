@@ -162,3 +162,4 @@ More details about the challenge can be found here:
 | 38 | 144 | 24.11.2022 | Take an Arrow to the knee, Functionally |
 | 38 | 145 | 24.11.2022 | Training JS #12: loop statement --for..in and for..of |
 | 39 | 146 | 25.11.2022 | Training JS #11: loop statement --break,continue |
+| 39 | 147 | 25.11.2022 | NBA full 48 minutes average |
