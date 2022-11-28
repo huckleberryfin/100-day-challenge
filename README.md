@@ -170,3 +170,4 @@ More details about the challenge can be found here:
 | 41 | 152 | 27.11.2022 | Grasshopper - Order of operations |
 | 41 | 153 | 27.11.2022 | Get Planet Name By ID |
 | 41 | 154 | 27.11.2022 | BASIC: Making Six Toast. |
+| 42 | 155 | 28.11.2022 | Return Two Highest Values in List |
