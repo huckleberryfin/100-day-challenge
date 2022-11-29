@@ -176,3 +176,4 @@ More details about the challenge can be found here:
 | 43 | 158 | 29.11.2022 | Jenny's secret message |
 | 43 | 159 | 29.11.2022 | Grasshopper - Function syntax debugging |
 | 43 | 160 | 29.11.2022 | Days in the year |
+| 44 | 161 | 30.11.2022 | Surface Area and Volume of a Box |
