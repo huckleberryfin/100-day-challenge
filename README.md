@@ -174,3 +174,4 @@ More details about the challenge can be found here:
 | 42 | 156 | 28.11.2022 | L1: Bartender, drinks! |
 | 42 | 157 | 28.11.2022 | Fix the Bugs (Syntax) - My First Kata |
 | 43 | 158 | 29.11.2022 | Jenny's secret message |
+| 43 | 159 | 29.11.2022 | Grasshopper - Function syntax debugging |
