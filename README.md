@@ -184,3 +184,4 @@ More details about the challenge can be found here:
 | 45 | 166 | 01.12.2022 | Grasshopper - Personalized Message |
 | 46 | 167 | 02.12.2022 | Exclusive "or" (xor) Logical Operator |
 | 46 | 168 | 02.12.2022 | Remove First and Last Character Part Two |
+| 46 | 168 | 02.12.2022 | Template Strings |
