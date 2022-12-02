@@ -181,3 +181,4 @@ More details about the challenge can be found here:
 | 44 | 163 | 30.11.2022 | Is your period late? |
 | 45 | 164 | 01.12.2022 | Grasshopper - Object syntax debug |
 | 45 | 165 | 01.12.2022 | The Wide-Mouthed frog! |
+| 45 | 166 | 01.12.2022 | Grasshopper - Personalized Message |
