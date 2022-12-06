@@ -188,3 +188,4 @@ More details about the challenge can be found here:
 | 47 | 169 | 03.12.2022 | They say that only the name is long enough to attract attention. They also said... |
 | 47 | 170 | 03.12.2022 | Training JS #31: methods of arrayObject---isArray() indexOf() and toString() |
 | 47 | 171 | 03.12.2022 | Did she say hallo? |
+| 48 | 172 | 04.12.2022 | I love you, a little , a lot, passionately ... not at all |
