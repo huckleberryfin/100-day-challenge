@@ -191,3 +191,6 @@ More details about the challenge can be found here:
 | 48 | 172 | 04.12.2022 | I love you, a little , a lot, passionately ... not at all |
 | 48 | 173 | 04.12.2022 | Who is going to pay for the wall? |
 | 48 | 174 | 04.12.2022 | Grader |
+| 49 | 175 | 05.12.2022 | Grasshopper - Debug sayHello |
+| 49 | 176 | 05.12.2022 | Grasshopper - Basic Function Fixer |
+| 49 | 177 | 05.12.2022 | Grasshopper - Debug |
