@@ -197,3 +197,13 @@ More details about the challenge can be found here:
 | 50 | 178 | 06.12.2022 | Unfinished Loop - Bug Fixing #1 |
 | 50 | 179 | 06.12.2022 | 101 Dalmatians - squash the bugs, not the dogs! |
 | 50 | 180 | 06.12.2022 | Semi-Optional |
+| 51 | 181 | 07.12.2022 | Return to Sanity |
+| 51 | 182 | 07.12.2022 | Basic variable assignment |
+| 51 | 183 | 07.12.2022 | Grasshopper - Variable Assignment Debug |
+| 52 | 184 | 08.12.2022 | Incorrect division method |
+| 52 | 185 | 08.12.2022 | Broken Counter |
+| 52 | 186 | 08.12.2022 | Hello Happy Codevarrior! |
+| 52 | 187 | 08.12.2022 | Max Headroom and JavaScript style |
+| 53 | 188 | 09.12.2022 | Shifty Closures |
+| 54 | 189 | 09.12.2022 | Regular Ball Super Ball |
+| 54 | 190 | 09.12.2022 | Grasshopper - Terminal game move function |
