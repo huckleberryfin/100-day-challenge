@@ -194,3 +194,6 @@ More details about the challenge can be found here:
 | 49 | 175 | 05.12.2022 | Grasshopper - Debug sayHello |
 | 49 | 176 | 05.12.2022 | Grasshopper - Basic Function Fixer |
 | 49 | 177 | 05.12.2022 | Grasshopper - Debug |
+| 50 | 178 | 06.12.2022 | Unfinished Loop - Bug Fixing #1 |
+| 50 | 179 | 06.12.2022 | 101 Dalmatians - squash the bugs, not the dogs! |
+| 50 | 180 | 06.12.2022 | Semi-Optional |
