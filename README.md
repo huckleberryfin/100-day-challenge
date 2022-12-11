@@ -209,3 +209,4 @@ More details about the challenge can be found here:
 | 54 | 190 | 09.12.2022 | Grasshopper - Terminal game move function |
 | 55 | 191 | 10.12.2022 | Barking mad |
 | 55 | 192 | 10.12.2022 | Count the number of cubes with paint on |
+| 55 | 193 | 10.12.2022 | Pythagorean Triple |
