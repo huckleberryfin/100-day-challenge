@@ -211,3 +211,4 @@ More details about the challenge can be found here:
 | 55 | 192 | 10.12.2022 | Count the number of cubes with paint on |
 | 55 | 193 | 10.12.2022 | Pythagorean Triple |
 | 56 | 194 | 11.12.2022 | Localize The Barycenter of a Triangle |
+| 56 | 195 | 11.12.2022 | Third Angle of a Triangle |
