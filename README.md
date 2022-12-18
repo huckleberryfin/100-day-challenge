@@ -213,3 +213,6 @@ More details about the challenge can be found here:
 | 56 | 194 | 11.12.2022 | Localize The Barycenter of a Triangle |
 | 56 | 195 | 11.12.2022 | Third Angle of a Triangle |
 | 56 | 196 | 11.12.2022 | Expressions Matter |
+| 57 | 197 | 12.12.2022 | Thinkful - Number Drills: Blue and red marbles |
+| 57 | 198 | 12.12.2022 | Perpendicular lines |
+| 57 | 199 | 12.12.2022 | Especially Joyful Numbers |
