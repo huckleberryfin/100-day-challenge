@@ -217,3 +217,4 @@ More details about the challenge can be found here:
 | 57 | 198 | 12.12.2022 | Perpendicular lines |
 | 57 | 199 | 12.12.2022 | Especially Joyful Numbers |
 | 58 | 200 | 13.12.2022 | Holiday VIII - Duty Free |
+| 58 | 201 | 13.12.2022 | Compare within margin |
