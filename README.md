@@ -220,3 +220,4 @@ More details about the challenge can be found here:
 | 58 | 201 | 13.12.2022 | Compare within margin |
 | 58 | 202 | 13.12.2022 | Plural |
 | 59 | 203 | 14.12.2022 | Grasshopper - Messi Goals |
+| 59 | 204 | 14.12.2022 | You Can't Code Under Pressure #1 |
