@@ -222,3 +222,6 @@ More details about the challenge can be found here:
 | 59 | 203 | 14.12.2022 | Grasshopper - Messi Goals |
 | 59 | 204 | 14.12.2022 | You Can't Code Under Pressure #1 |
 | 59 | 205 | 14.12.2022 | Classic Hello World |
+| 60 | 206 | 15.12.2022 | "this" is a problem |
+| 60 | 207 | 15.12.2022 | Unexpected parsing |
+| 60 | 208 | 15.12.2022 | Invalid Login - Bug Fixing #11 |
