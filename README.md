@@ -226,3 +226,5 @@ More details about the challenge can be found here:
 | 60 | 207 | 15.12.2022 | Unexpected parsing |
 | 60 | 208 | 15.12.2022 | Invalid Login - Bug Fixing #11 |
 | 61 | 209 | 16.12.2022 | Do something "n.times" (Simplifying "for" loops) |
+| 61 | 210 | 16.12.2022 | Find variable which breaks strict comparison! |
+
