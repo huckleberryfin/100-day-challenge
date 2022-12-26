@@ -228,4 +228,7 @@ More details about the challenge can be found here:
 | 61 | 209 | 16.12.2022 | Do something "n.times" (Simplifying "for" loops) |
 | 61 | 210 | 16.12.2022 | Find variable which breaks strict comparison! |
 | 61 | 211 | 16.12.2022 | SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes |
+| 62 | 212 | 17.12.2022 | get ascii value of character |
+| 62 | 213 | 17.12.2022 | Sleigh Authentication |
+| 62 | 214 | 17.12.2022 | Printing Array elements with Comma delimiters |
 
