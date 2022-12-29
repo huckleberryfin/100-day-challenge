@@ -234,4 +234,7 @@ More details about the challenge can be found here:
 | 63 | 215 | 18.12.2022 | return Boolean(val) ? 'true' : 'false'; |
 | 63 | 216 | 18.12.2022 | Are there any arrows left? |
 | 63 | 217 | 18.12.2022 | Subtract the Sum |
+| 64 | 218 | 19.12.2022 | How many lightsabers do you own? |
+| 64 | 219 | 19.12.2022 | Alan Partridge II - Apple Turnover |
+| 64 | 220 | 19.12.2022 | Coefficients of the Quadratic Equation |
 
