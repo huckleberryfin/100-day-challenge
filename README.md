@@ -232,4 +232,6 @@ More details about the challenge can be found here:
 | 62 | 213 | 17.12.2022 | Sleigh Authentication |
 | 62 | 214 | 17.12.2022 | Printing Array elements with Comma delimiters |
 | 63 | 215 | 18.12.2022 | return Boolean(val) ? 'true' : 'false'; |
+| 63 | 216 | 18.12.2022 | Are there any arrows left? |
+| 63 | 217 | 18.12.2022 | Subtract the Sum |
 
