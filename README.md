@@ -237,4 +237,5 @@ More details about the challenge can be found here:
 | 64 | 218 | 19.12.2022 | How many lightsabers do you own? |
 | 64 | 219 | 19.12.2022 | Alan Partridge II - Apple Turnover |
 | 64 | 220 | 19.12.2022 | Coefficients of the Quadratic Equation |
+| 65 | 221 | 20.12.022 | The 'if' function |
 
