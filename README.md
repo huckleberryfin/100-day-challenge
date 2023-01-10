@@ -240,3 +240,6 @@ More details about the challenge can be found here:
 | 65 | 221 | 20.12.2022 | The 'if' function |
 | 65 | 222 | 20.12.2022 | Object Oriented Piracy |
 | 65 | 223 | 20.12.2022 | Duck Duck Goose |
+| 66 | 224 | 21.12.2022 | Playing with cubes II |
+| 66 | 225 | 21.12.2022 | Color Ghost |
+| 66 | 226 | 21.12.2022 | A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future" |
