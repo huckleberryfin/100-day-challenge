@@ -243,4 +243,4 @@ More details about the challenge can be found here:
 | 66 | 224 | 21.12.2022 | Playing with cubes II |
 | 66 | 225 | 21.12.2022 | Color Ghost |
 | 66 | 226 | 21.12.2022 | A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future" |
-| 67 | 227 | 21.12.2022 | Job Matching #1 |
+| 67 | 227 | 22.12.2022 | Job Matching #1 |
