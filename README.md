@@ -246,3 +246,4 @@ More details about the challenge can be found here:
 | 67 | 227 | 22.12.2022 | Job Matching #1 |
 | 67 | 228 | 22.12.2022 | Opposite number |
 | 67 | 229 | 22.12.2022 | Training JS #3: Basic data types--String |
+| 68 | 230 | 23.12.2022 | Determine offspring sex based on genes XX and XY chromosomes |
