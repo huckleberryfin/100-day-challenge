@@ -244,3 +244,5 @@ More details about the challenge can be found here:
 | 66 | 225 | 21.12.2022 | Color Ghost |
 | 66 | 226 | 21.12.2022 | A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future" |
 | 67 | 227 | 22.12.2022 | Job Matching #1 |
+| 67 | 228 | 22.12.2022 | Opposite number |
+| 67 | 229 | 22.12.2022 | Training JS #3: Basic data types--String |
